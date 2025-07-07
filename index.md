@@ -25,14 +25,18 @@ Associates in Science with High Honors May 2013
 <!-- - Security+ -->
 
 ## Proficient Skills
-C/C++23 | CMake | Python3 | Bash | UML | Git | GitHub/GitLab | Jira/Confluence | CI/CD via Jenkins/GitLab | Docker | Artifactory/Conan | GTest/GMock | Google Benchmark | Boost | gRPC | Kafka | ZMQ | C++ Sanitizers ASAN/TSAN/UBSAN | Yocto Project | IBM Rhapsody | Cameo | VSCode | SonarQube | Redhat Linux | Event Driven Architecture | Microservice Architecture | Amazon Web Services (AWS) | MongoDB | Node.js | Jekyll | RESTful CRUD Services  
+C/C++23 | CMake | Python3 | Bash | UML | Git | GitHub/GitLab | Jira/Confluence | CI/CD via Jenkins/GitLab | Docker | Artifactory/Conan | GTest/GMock | Google Benchmark | Boost | gRPC | Kafka | ZMQ | C++ Sanitizers ASAN/TSAN/UBSAN | Yocto Project | IBM Rhapsody | Cameo | VSCode | SonarQube | Redhat Linux | Event Driven Architecture | Microservice Architecture | MongoDB | Node.js | Jekyll | RESTful CRUD Services  
 
 ## Familiar Skills
-Kubernetes | RedHat OpenShift | Ruby | Rust | Java | HTML/CSS | Verilog | MatLab | Xilinx Vivado Design Suite | DOORS  
+Kubernetes | RedHat OpenShift | Amazon Web Services (AWS) | Ruby | Rust | Java | HTML/CSS | Verilog | MatLab | Xilinx Vivado Design Suite | DOORS  
 
 ## Experience
 
-### Sr. Specialist Software Engineer, L3Harris Technologies (Melbourne, FL) Jul 2022 - Present
+### Sr. Software Engineer, Maxar (Melbourne, FL) Jan 2025 - Present
+- Worked on algorithms team as individual contributor for missile defense system program
+- Analyzed fused track data using Python on home-grown data formats to improve various tracking algorithms, e.g., burnout detection and impact prediction
+
+### Sr. Specialist Software Engineer, L3Harris Technologies (Melbourne, FL) Jul 2022 - Dec 2025
 - Led small team in design and implementation of an event driven system prototype via IRAD made up of a series of C++ applications communicating via Kafka that leverage microservices for interacting with various MongoDB instances
 - Designed and implemented create, read, update, delete (CRUD) services for use in event driven system prototype using Express.js, MongoDB, and C++ client lib
 - Mentored entry level engineer in software design and architecture principles
