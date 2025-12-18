@@ -34,7 +34,7 @@ Kubernetes | RedHat OpenShift | Amazon Web Services (AWS) | Ruby | Rust | Java |
 - Wrote numerical propagators to model different motion dynamics and selected appropriate integrators (e.g., RK4) for propagation and filter prediction.
 - Worked closely with SMEs and implemented a C++ prototype for initial orbital tracking capability; wrote Python tooling to measure performance and accuracy against truth data and incorporated propagators into Kalman filters for multiple flight phases.
 
-### Sr. Specialist Software Engineer, L3Harris Technologies (Melbourne, FL) Jul 2022 - Dec 2025
+### Sr. Specialist Software Engineer, L3Harris Technologies (Melbourne, FL) Jul 2022 - Dec 2024
 - Led small team in design and implementation of an event driven system prototype via IRAD made up of a series of C++ applications communicating via Kafka that leverage microservices for interacting with various MongoDB instances
 - Designed and implemented create, read, update, delete (CRUD) services for use in event driven system prototype using Express.js, MongoDB, and C++ client lib
 - Mentored entry level engineer in software design and architecture principles
