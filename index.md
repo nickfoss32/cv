@@ -30,9 +30,15 @@ Kubernetes | RedHat OpenShift | Amazon Web Services (AWS) | Ruby | Rust | Java |
 
 ### Sr. Software Engineer, Vantor (Melbourne, FL) Jan 2025 - Present
 - Worked on algorithms team as an individual contributor developing a track-based association and fusion system for a program-of-record missile warning system
-- Analyzed fused 3D track outputs using Python on home-grown formats to improve tracking algorithms such as burnout detection and impact prediction.
-- Wrote numerical propagators to model different motion dynamics and selected appropriate integrators (e.g., RK4) for propagation and filter prediction.
-- Worked closely with SMEs and implemented a C++ prototype for initial orbital tracking capability; wrote Python tooling to measure performance and accuracy against truth data and incorporated propagators into Kalman filters for multiple flight phases.
+- Analyzed fused 3D track outputs using Python on home-grown data formats to improve tracking algorithms such as burnout detection and impact prediction
+- Architected and developed software implementation for multiple propagators to model different motion dynamics
+- Worked closely with SMEs and implemented a C++ prototype for initial orbital tracking capability; wrote Python tooling to measure performance and accuracy against truth data and incorporated propagators into Kalman filters
+- Architected, developed, analyzed, and tuned an Interacting Multiple Model (IMM) tracker algorithm designed for OPIR sensor data; developed analysis and visualization tools to assess IMM behavior and identify the source of performance issues during tuning
+- Pioneered modernization of legacy code to increase testability and validate functionality of complex algorithms
+- Supported quick-turn analysis, troubleshooting, and bug fix implementation in both Maintenance and Ops environments
+- Mentored junior team member in Scrum Master position
+- Participated in software peer reviews across development teams
+- Attended Theater Event System (TES) Change Control Board (CCB) Meeting
 
 ### Sr. Specialist Software Engineer, L3Harris Technologies (Melbourne, FL) Jul 2022 - Dec 2024
 - Led small team in design and implementation of an event driven system prototype via IRAD made up of a series of C++ applications communicating via Kafka that leverage microservices for interacting with various MongoDB instances
@@ -58,7 +64,7 @@ Kubernetes | RedHat OpenShift | Amazon Web Services (AWS) | Ruby | Rust | Java |
 - Led innovation efforts by evaluating and incorporating FOSS and COTS products into Continuous Integration/Continuous Delivery (CI/CD) infrastructure and software development workflows
 - Supported customer integration events both in-person at test sites and remotely from the office
 - Incorporated open and modular software architecture using C++ design idioms such as Non-Virtual Interfaces (NVI), Strategy patterns, & more to promote code reusability & testability
-- Led several cross-functional teams in program's SAFe organization by serving as Scrum Master, Product Owner, and Software Architect
+- Led several cross-functional teams in program's Scaled Agile Framework (SAFe) organization by serving as Scrum Master, Product Owner, and Software Architect
 - Presented to customer at software board reviews to articulate progress of capability development across program(s)
 - Analyzed system performance of applications running on embedded target(s) using Linux tools like htop, iperf, & tcpdump
 - Led customer-funded research & development effort to prototype legacy product on a new hardware platform with modern processor architecture
