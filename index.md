@@ -9,7 +9,7 @@ output: pdf_document
 (847) 915-1353  
 [LinkedIn](https://www.linkedin.com/in/nfoss) | [GitHub](https://github.com/nickfoss32)  
 
-_Seasoned software engineer with 10+ years of experience working on gov't contracts in the defense/intelligence industry, primarily in cleared environments, specializing in embedded systems and systems deployed to the cloud. Skilled in modern C++ (C++20/23), Python, microservices, and event-driven architectures; thrives in agile, fast-paced environments delivering iterative, testable solutions. Proven leader who designs scalable systems, improves CI/CD workflows, and mentors teams to deliver production-ready software under operational constraints._  
+_Seasoned software engineer with 10+ years of experience working on gov't contracts in the defense/intelligence industry, primarily in cleared environments, specializing in embedded systems and systems deployed to the cloud. Skilled in modern C++, Python, microservices, and event-driven architectures; thrives in agile, fast-paced environments delivering iterative, testable solutions. Proven leader who designs software in UML, builds scalable systems, improves CI/CD workflows, and mentors teams to deliver production-ready software under operational constraints._  
 
 ## Education
 **University of Illinois at Urbana-Champaign**  
@@ -21,10 +21,10 @@ Associates in Science with High Honors May 2013
 3.77  
 
 ## Proficient Skills
-C/C++23 | CMake | Python3 | AI-assisted Coding | Bash | UML | Git | GitHub/GitLab | Jira/Confluence | CI/CD via Jenkins/GitLab | Docker | Artifactory/Conan | GTest/GMock | Boost | gRPC | Kafka | Eigen | ZMQ | C++ Sanitizers ASAN/TSAN/UBSAN | Yocto Project | IBM Rhapsody | Cameo | VSCode | SonarQube | Redhat Linux | Event Driven Architecture | Microservice Architecture | MongoDB | Jekyll | RESTful CRUD Services  
+C/C++17 | CMake | Python3 | AI-assisted Coding | Bash | UML | Git | GitHub/GitLab | Jira/Confluence | CI/CD via Jenkins/GitLab | Docker | Artifactory/Conan | GTest/GMock | Boost | gRPC | Kafka | Eigen | ZMQ | C++ Sanitizers ASAN/TSAN/UBSAN | Yocto Project | IBM Rhapsody | Cameo | VSCode | SonarQube | Redhat Linux | Event Driven Architecture | Microservice Architecture | Jekyll | RESTful CRUD Services  
 
 ## Familiar Skills
-Kubernetes | RedHat OpenShift | Amazon Web Services (AWS) | Ruby | Rust | Java | HTML/CSS | Node.js | Verilog | MatLab | Xilinx Vivado Design Suite | DOORS | Google Benchmark | Kalman Filtering | Orbital Mechanics  
+Kubernetes | RedHat OpenShift | MongoDB | Amazon Web Services (AWS) | Ruby | Rust | Java | HTML/CSS | Node.js | Verilog | MatLab | Xilinx Vivado Design Suite | DOORS | Google Benchmark | Kalman Filtering | Orbital Mechanics  
 
 ## Experience
 
@@ -50,7 +50,7 @@ Kubernetes | RedHat OpenShift | Amazon Web Services (AWS) | Ruby | Rust | Java |
 - Led effort to draft up technical solution to support new program capture (Gate 1)
 - Worked remotely as sub-contractor to support design and development of ground system for modern missile warning/missile defense program
 - Served as technical lead for other L3H developers on above program
-- Developed real-time, containerized C++ applications using modern C++20/23 in a microservices, event-driven architecture
+- Developed real-time, containerized C++ applications using modern C++20 in a microservices, event-driven architecture
 - Utilized data streaming technologies like ZMQ to allow fast communication between apps
 - Designed, implemented, and integrated several common libraries into system's app stream
 - Enhanced several aspects of program's GitLab-based CI/CD infrastructure
